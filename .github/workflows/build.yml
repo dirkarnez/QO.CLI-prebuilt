@@ -29,7 +29,7 @@ jobs:
     env:
       libraryName: QO.CLI
       cmakeInstallationPath: QO.CLI-installation
-      tagName: c51a852d5bbb23062677093c8c5b95e106c89334d
+      tagName: 51a852d5bbb23062677093c8c5b95e106c89334d
     steps:
     
       - uses: actions/checkout@v4
